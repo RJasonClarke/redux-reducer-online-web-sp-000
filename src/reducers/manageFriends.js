@@ -24,3 +24,4 @@ export function manageFriends(state = { friends: [],}, action){
     default:
       return state;
     }
+  }
